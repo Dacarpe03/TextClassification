@@ -1,0 +1,21 @@
+El dolor es un problema de salud pública de primera magnitud. Mª Carmen Ruiz Cantero, de la Fundació Bosch i Gimpera de la UB, es la investigadora principal de un proyecto que busca desarrollar nuevos fármacos para disminuir el dolor. El proyecto liderado por el grupo de Santiago Vázquez y Eugènia Pujol, de la UB, en consorcio con Enrique J. Cobos del Moral, de la Universidad de Granada, y Emanuele Amata y Agostino Marrazzo, de la Universidad de Catania (Italia), ha recibido 300.000 euros de la convocatoria CaixaResearch Consolidate 2022, de la Fundación ‘la Caixa'.Hasta hace poco se consideraba solo un síntoma, pero es también una enfermedad. Se define como una experiencia emocional y sensorial desagradable que sentimos como señal de alarma del sistema nervioso de que algo no va bien. Pero a veces el dolor, aunque sea de corta duración y desaparezca en poco tiempo, es muy intenso (dolor agudo), como por ejemplo después de una cirugía, y necesitamos aliviarlo con fármacos. Además, está también el dolor crónico, que dura muchos meses o años, lo cual resulta muy entorpecedor y hace que sea necesario el uso de fármacos para calmarlo y mejorar así la calidad de vida. El dolor es muy subjetivo, cada uno lo sufre de manera diferente. Es, eso sí, una patología muy incapacitante.
+
+Siendo un grave problema de salud pública, ¿es un tema poco investigado? Sí, no es el área en la que más se investiga o en la que más se invierte. Sin embargo, muchas personas padecen dolor. Se calcula que una de cada cinco personas en Europa convive con algún tipo de dolor crónico que merma su calidad de vida y tiene importantes repercusiones socioeconómicas, además de elevados costes médicos asociados.
+
+¿Los fármacos actuales no sirven? Los tratamientos analgésicos que existen actualmente son poco eficaces y tienen muchos efectos secundarios adversos. Por eso es importante ir descubriendo nuevas dianas terapéuticas y saber en qué tipo de dolor son importantes.
+
+¿Qué persigue su proyecto? ¿Erradicar el dolor?
+
+El dolor tiene que existir, es una señal de alarma necesaria para nuestra vida. Lo que sí se puede es aliviar, que el paciente no sufra y mejorar así su calidad de vida. Lo que intentamos es buscar tratamientos que reduzcan el dolor y en cuantos más tipos de dolor, mejor. Por lo pronto, en este proyecto, y en fase preclínica, hemos probado en artritis y en posoperatorio y funciona muy bien.
+
+¿En qué se basa su investigación?
+
+Trabajamos con dos dianas biológicas, dos proteínas, que son muy importantes para el dolor. Hemos realizados muchos estudios preclínicos en distintos modelos animales en los que comprobamos que si administramos de forma conjunta dos fármacos muy novedosos, que han superado ya los ensayos de seguridad en humanos, el efecto analgésico es mucho más grande que si se utilizan por separado. Cada uno de estos fármacos va dirigido a una diana. Pero nosotros hemos desarrollado ya moléculas duales para que el mismo fármaco tenga efecto sobre las dos dianas a la vez y el efecto sea mucho más potente.
+
+Están en fase preclínica y trabajan con roedores. ¿Cómo saben si tienen dolor?
+
+En el laboratorio intentamos buscar modelos experimentales que reproduzcan, de la mejor manera posible, los problemas que padecen los pacientes con dolor. Y para evaluarlo tenemos distintos tipos de test que se basan en la respuesta que produce el animal o en su comportamiento. Por ejemplo, si le aplicamos un estímulo, cuánto tarda en responder, si corre más o menos, si se le han quitado las ganas de hacer sus actividades diarias, como excavar en una madriguera... Además, podemos grabarlos e identificar por la cara que ponen si tienen dolor o no gracias a un algoritmo de Inteligencia Artificial que hemos desarrollado en el laboratorio. 
+
+¿Para cuándo la fase clínica?
+
+Esperamos que lo antes posible, pero los ensayos preclínicos llevan su tiempo. Hay que determinar cuál de las moléculas duales pasa a la siguiente fase, si hay que mejorar sus características, estipular las dosis y para qué tipo de dolor puede ser más efectivo.
