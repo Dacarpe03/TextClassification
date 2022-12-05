@@ -17,8 +17,9 @@ URL_FILE_NAME = f"{DATA_FOLDER}urls.csv"
 
 def main():
     news_df = pd.read_csv(URL_FILE_NAME, index_col=0)
-    news_df = news_df[news_df.category=="health"]
-    last_category = "health"
+    # news_df = news_df[news_df.category=="health"]
+    # news_df = news_df[news_df.index > 30]
+    last_category = "score"
     count = 1
     for index, row in news_df.iterrows():
         category = row["category"]
