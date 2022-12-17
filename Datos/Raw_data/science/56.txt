@@ -1,0 +1,113 @@
+También hemos visto un trabajo publicado por unos Investigadores
+surcoreanos que han encontrado una forma de producir hidrógeno de forma
+más barata —no utiliza platino para realizar la electrólisis— y que produce 20
+veces más hidrógeno que los métodos tradicionales. Los investigadores
+queman un trozo de tela a más de 900 grados Celsius para hacer que fluya la
+electricidad a través de él. Luego la tela se coloca en una solución de níquel
+metal y se aplica una corriente eléctrica haciendo que la capa de metal se
+pegue a la tela. El proceso se llama galvanoplastia y tiene la propiedad de
+transformar el tejido en un nuevo material que mejora la reacción.
+
+Este nuevo electrodo, dicen sus creadores, puede producir hidrógeno con poca
+energía, manteniendo la estabilidad y la adherencia del metal. "Este material
+demuestra la posibilidad de sustituir los catalizadores metálicos por
+catalizadores no metálicos”, dicen los investigadores. “Además, nunca se había
+informado de un funcionamiento tan prolongado y estable, incluso a la alta
+densidad de corriente de 2.000 miliamperios".
+oyota tiene muy avanzado el desarrollo de su Corolla Cross H2 Concept,
+T un prototipo de automóvil con motor de explosión que en lugar de
+
+alimentarse mediante combustibles fósiles lo hace con hidrógeno. El prototipo
+se está construyendo gracias a todo lo aprendido por la marca japonesa en las
+competiciones de automóviles de hidrógeno y, según afirman, está a un 40 por
+ciento de estar listo para su comercialización.
+
+Según cuenta la compañía japonesa, el Corolla Cross H2 de hidrógeno tiene el
+mismo motor 1.61 turbo de tres cilindros que lleva el GR Corolla de combustión
+de hidrógeno y que ha participado en todas las carreras de resistencia Super
+Taikyu de Japón. Ese motor cuenta con tecnología de inyección directa de
+hidrógeno a alta presión y en su versión comercial será capaz de llevar a cinco
+pasajeros y su equipaje.
+
+“Esta actividad automovilística regular e intensa ha contribuido a acelerar la
+actividad de desarrollo y el progreso técnico”, asegura la compañía. “Por
+ejemplo, en el transcurso de una temporada de Super Taikyu, Toyota ha sido
+capaz de aumentar la potencia de combustión del hidrógeno en un 24 por
+ciento y el par motor en un 33 por ciento logrando un avance de rendimiento
+dinámico equiparable al de un motor de gasolina convencional. Además, la
+autonomía se ha ampliado en torno a un 30 por ciento y el tiempo de repostaje
+se ha reducido de aproximadamente cinco minutos a un minuto y medio”.
+Otras técnicas prometen extraer hidrógeno del mismo aire. Sus creadores, un
+grupo de investigadores de la Universidad de Melbourne, en Australia, lo ha
+diseñado para zonas áridas con poco acceso al agua. El nuevo método se basa
+en una espuma porosa de vidrio que se empapa de un electrolito que absorbe la
+humedad y el agua del aire. Luego se aplica electricidad procedente de una
+fuente de energía renovable para dividir el agua absorbida en oxígeno (que se
+libera) e hidrógeno (que se almacena).
+
+Una vez comprobada la estabilidad y eficiencia del sistema, los investigadores
+formaron una torre con cinco de estas unidades y la conectaron a un panel
+solar. Midieron la producción de hidrógeno de la torre a lo largo de dos días en
+el campus de la universidad y comprobaron que producía hidrógeno de forma
+fiable. El sitema consiguió extraer 1.490 mililitros el primer día y 1.188 el
+segundo, cuando las condiciones meteorológicas eran peores.
+
+Está por ver si estos métodos de extraer y almacenar hidrógeno —u otros
+también muy prometedores de los que hemos hablado de manera extensa en
+Novaceno— se llegan a adoptar a escala industrial. El apoyo por parte de los
+Estados será crucial para su desarrollo. Pero si lo hacen, como está haciendo
+EEUU, estaremos más cerca de tener una herramienta más en nuestro kit
+energético que nos ayude a evitar los efectos del cambio climático y a reducir la
+dependencia del suministro que nos llega de otros países.
+La compañía dice que además de continuar con el desarrollo digital de su
+prototipo, también está probándolo ya en condiciones reales y se está
+preparando para comenzar los tests de invierno en el norte de Japón. Por ahora,
+dicen, están al 40 por ciento de terminar este desarrollo y comenzar la
+comercialización de este tipo de vehículos.
+
+A la búsqueda de nuevas tecnologías
+
+Echar todos los huevos en la misma cesta es comprar muchas papeletas para
+que cualquier vaivén los acabe convirtiendo en tortilla. En el caso de los coches
+eléctricos ese vaivén puede llegar en forma de escasez de materiales para
+fabricar las baterías con las que se alimentan.
+Como nos contaron los expertos a los que entrevistamos para hacer el guión
+del tercer episodio de Control Z, “El viaje a ninguna parte”, el camino para
+eliminar las emisiones de CO2 del transporte no puede depender únicamente de
+una tecnología. Materiales como el litio —claves para la fabricación de las
+baterías que llevan hoy en día los coches eléctricos— están a tres décadas de
+agotarse si se cumplen las expectativas de producción de coches que se están
+planteando hoy en día.
+
+“Es demasiado pronto para centrarse en una única solución de emisiones cero y,
+por ello, estamos desarrollando simultáneamente la tecnología de pilas de
+combustible de hidrógeno y de combustión de hidrógeno junto con la tecnología
+de baterías eléctricas”, asegura Toyota, dando la razón en sus argumentos a los
+expertos. El fabricante japonés no solo está desarrollando coches eléctricos de
+baterías, sino también automóviles eléctricos de pila de combustible e híbridos.
+
+Y del preciado hidrógeno verde
+
+El gran problema de esta tecnología sigue siendo el alto coste del litro de
+hidrógeno verde, el que se produce mediante fuentes renovables en lugar de
+combustibles fósiles y que no genera emisiones. El hidrógeno verde cuesta
+entre puede llegar a rondar los 7 dólares el kilo, sin embargo, las proyecciones
+prevén que su coste se aproxime los dos dólares el kilo en 2030 y a uno en
+2050. Además, los científicos e ingenieros están encontrando soluciones
+alternativas que son más baratas y eficientes. De hecho últimamente hemos
+visto algunas tecnologías nuevas que pueden solucionar muchos de los
+problemas que están ralentizando su adopción.
+
+Hace unos meses publicábamos aquí el descubrimiento de un grupo de la
+Universidad de California, Santa Cruz, que apenas gasta energía y que extrae
+grandes cantidades de hidrógeno. Los investigadores han dado con un nuevo
+método para extraerlo del agua que se basa en la gran eficiencia de la reacción
+de las nanopartículas de aluminio con un compuesto rico en galio. Este
+compuesto, aseguran sus creadores, se puede fabricar desde fuentes como el
+papel de aluminio o latas usadas y permite recuperar y utilizar el galio varias
+veces sin perder su eficacia.
+El nuevo coche de explosión de hidrógeno que
+soluciona el problema de los eléctricos
+
+El fabricante japonés Toyota ha aprovechado su experiencia en las competiciones de coches para crear un motor de
+combustión que usa hidrógeno para funcionar

@@ -1,0 +1,174 @@
+¡entras nosotros seguimos con nuestras vidas, la historia de la ciencia va
+M marcando fechas en el calendario que, vistas con perspectiva en un
+futuro, habrán cambiado el mundo. Este martes, 13 de diciembre de 2022,
+puede ser una de ellas. El Departamento de Energía de EEUU tiene previsto
+realizar un anuncio sin precedentes acerca de la fusión nuclear. Durante
+décadas, esta fuente de energía que promete ser inagotable ha sido objeto de
+broma entre los físicos, cuando afirman que estamos a 50 años de conseguir el
+primer reactor, que siempre lo hemos estado y que siempre lo estaremos,
+aludiendo así a que nunca se dan los pasos decisivos para avanzar.
+
+Según la información adelantada por el Financial Times, lo que va a anunciar
+hoy la secretaria de Energía de EEUU, Jennifer Granholm, es precisamente la
+resolución del nudo gordiano que impedía el desarrollo de esta tecnología: por
+primera vez un experimento ha conseguido generar más energía de la que ha
+introducido para conseguir la fusión nuclear, lo que se conoce como ganancia
+neta. Este hito histórico corresponde al Laboratorio Nacional Lawrence
+Livermore, ubicado en California, que al parecer habría producido 2,5
+megajulios de energía tras emplear 2,1 megajulios (es decir, habría ganado 0,4
+megajulios) en la National Ignition Facility (NIF), uno de los edificios que forman
+parte de sus instalaciones. ¿Qué han hecho exactamente? ¿Qué consecuencias
+tendrá para la producción de energía? ¿Cuándo lo veremos?
+Si al final esta opción impulsada por EEUU se impone, ¿en Europa tenemos la
+tecnología necesaria como para subirse al carro? Perlado es optimista a pesar
+de la escasa financiación pública, ya que hay un elemento clave en el que el
+Viejo Continente sí puede ser competitivo: la tecnología láser. Francia tiene el
+segundo láser más potente del mundo, en la escala del NIF, en Burdeos; el Reino
+Unido también tiene instalaciones importantes, como el Rutherford Appleton
+Laboratory (RAL), y la Unión Europea, en su conjunto, tiene un ambicioso plan
+denominado Extreme Light Infrastructure (EL!), cuyo objetivo es construir el
+láser más intenso jamás creado.
+
+En cualquier caso, el camino parece un poco más despejado para lograr una
+energía... ¿Limpia y sin límites? “Si lo que utilizamos es el deuterio, uno de los
+isótopos del hidrógeno, es absolutamente inagotable”, apunta Perlado, “porque
+está en el agua del mar en concentraciones suficientes como para pensar que
+tenemos suficiente para millones de años”. Si la reacción que se utiliza es la del
+deuterio con el tritio, otro de los isótopos del hidrógeno, la clave está en “crear
+el tritio”, para lo que se utiliza litio y, en principio, tampoco supondría un gran
+problema porque también abunda en la naturaleza (especialmente, también en
+el agua del mar). Además, los expertos creen que pueden utilizarse otros
+elementos.
+Por el momento, los científicos son prudentes aunque la expectación es
+máxima. “Si es cierto lo que se dice, que se ha logrado ganancia neta, puede ser
+un hito importante para el campo de la fusión”, comenta desde Boston en
+declaraciones a Teknautas Pablo Rodríguez Fernández, investigador español en
+el Plasma Science and Fusion Center del Instituto Tecnológico de
+Massachusetts (MIT). Hace poco más de dos meses, en una entrevista
+concedida a este periódico, se mostraba muy optimista con el potencial que
+tiene esta energía, pronosticando que en 2035 podría estar lista una planta
+piloto. Sin embargo, el NIF ha conseguido este logro por una vía “diferente al
+estándar que se usa para investigar las plantas de producción de energía”,
+destaca. Mientras que la apuesta más conocida está basada el uso de campos
+magnéticos, los científicos de California han utilizado tecnología láser.
+
+Aunque prefiere esperar a conocer los detalles científicos para comentar la
+noticia, este experto del MIT ya adelanta que los resultados obtenidos por el
+Laboratorio Nacional Lawrence Livermore pueden ser clave “para entender la
+física que hay en común y avanzar en ambos campos”. ¿Por qué es tan
+importante esta distinción entre los dos modos de lograr la fusión? Pablo
+Rodríguez trabaja en un experimento conocido como SPARC, impulsado por una
+spin-off del MIT, que también va a tratar de obtener energía neta en los
+próximos años, pero gracias al magnetismo. Sobre esa idea también se
+sustenta el experimento ITER (International Thermonuclear Experimental
+Reactor, en español Reactor Termonuclear Experimental Internacional), que está
+en construcción en el sur de Francia, con un coste previsto de 24.000 millones
+de euros. Si de repente la tecnología láser adelanta por la derecha a estos
+proyectos públicos y privados, cambiaría el camino previsto hacia la obtención
+de una energía verde e inagotable. Los plazos, que aún se miden en décadas,
+pueden acelerarse y las tecnologías podrían ser muy diferentes a lo que estaba
+previsto. Dicho de otra forma: este anuncio podría poner patas arriba la ciencia
+y el futuro de la energía en el mundo, pero aún es demasiado pronto para
+saberlo.
+
+En España, la única institución que se ha centrado en la investigación de este
+tipo de fusión nuclear es el Instituto de Física Nuclear Guillermo Velarde, de la
+Universidad Politécnica de Madrid. De hecho, lleva décadas colaborando con el
+Laboratorio Nacional Lawrence Livermore de California. Por eso, su presidente,
+José Manuel Perlado, conocía la noticia hace días a través de sus colegas de
+California y puede aportar más detalles, por ejemplo, que el experimento que ha
+obtenido energía neta por fusión nuclear por primera vez en la historia tuvo
+lugar el pasado 5 de diciembre.
+Sin embargo, el primer gran resultado salió a la luz en agosto de 2021, cuando
+los investigadores de California publicaron en Science un experimento que
+había logrado generar 1,3 megajulios tras emplear 1,9 en el disparo. Todavía no
+había una ganancia, pero era la primera prueba de que se podían obtener altas
+energías. A partir de ahí, todo se complicó, puesto que les costó mucho repetir
+el experimento. Según Perlado, detectaron errores en la fabricación de las
+pequeñas cápsulas que servían de blanco al láser y, a partir de ahí, en 2022 se
+han encadenado resultados positivos, especialmente, uno publicado en enero
+en Nature. Con la confirmación de que al fin se ha logrado una ganancia neta de
+energía, “se abre la puerta a obtener más y más energía”, explica el experto de la
+UPM, ya que “el mecanismo por el cual se ha conseguido ya se entiende
+perfectamente” y solo queda seguir desarrollando la tecnología.
+
+El futuro del ITER
+
+Tampoco es una sorpresa que este hito científico provenga de EEUU: “El plan
+europeo para la fusión nuclear inercial desde la investigación pública no
+existe”, lamenta el físico. En cambio, los estadounidenses han entendido que el
+láser podría dar frutos antes. ¿En qué plazos? “Hay empresas que hablan de la
+década de 2040 o antes, no estamos hablando de cientos de plantas
+conectadas a la red, pero sí de una planta demostradora”, afirma. Es probable
+que tras este éxito se sume más capital privado y que la tecnología acelere más
+de lo previsto.
+
+La gran pregunta es si el proyecto ITER se verá afectado. “No me cabe la menor
+duda de que ITER seguirá adelante y todos esperamos que también consiga lo
+que se espera”, señala Perlado. Ahora está en fase de construcción y el objetivo
+es que comience a operar dentro de pocos años, pero en un primer momento
+aún no lograría esa “ganancia neta” que ya ha logrado el experimento de
+California. “No creo que se vaya a abandonar, sería terrorífico tras la inversión
+hecha”, comenta el experto. Sin embargo, si la fusión del láser triunfa, el retraso
+va a ser evidente, porque la siguiente fase tras ITER es DEMO, un proyecto de
+demostración que no estaría listo antes de 2060.
+Cómo se ha logrado
+
+La fusión nuclear consiste en la unión de núcleos atómicos, lo que libera
+muchísima energía. De hecho, es lo que ocurre en las estrellas como el Sol: dos
+núcleos de hidrógeno se unen para convertirse en helio. Para que ocurra es
+necesario alcanzar temperaturas de cientos de millones de grados. ¿Cómo se
+hace eso en la Tierra? Una forma de hacerlo es unir el deuterio y el tritio, que
+son isótopos de hidrógeno. Los científicos de California lo han logrado gracias
+a la fusión por confinamiento inercial vía láser. “Este sistema emplea láseres
+que logran que la materia alcance densidades altísimas, muy similares a las del
+centro del Sol y con una temperatura que también es parecida”, comenta
+Perlado.
+
+En los experimentos del NIF se utilizan cápsulas de hidrógeno milimétricas, que
+son bombardeadas por disparos láser que apenas duran nanosegundos. “La
+materia está comprimida gracias a la inercia que se le ha dado con el láser
+durante una fracción muy pequeña de tiempo, pero suficiente como para
+extraer la energía que ha logrado este experimento y que, teóricamente, se
+debería superar en el futuro”, comenta el físico.
+
+En cambio, la propuesta del ITER y de otras apuestas tecnológicas es utilizar el
+magnetismo para “mantener la materia confinada a baja densidad y durante
+largos periodos de tiempo”, una concepción distinta que, en teoría, debería dar
+el mismo resultado. Si los grandes proyectos científicos han optado por esta vía
+en lugar de por la fusión que utiliza el láser, ¿los resultados del NIF son una
+sorpresa? Realmente, no. El físico estadounidense John Nuckolls ya había
+propuesto el confinamiento inercial hace exactamente medio siglo, en un
+artículo publicado en Nature en 1972 y desde entonces muchos otros trabajos
+han ratificado la viabilidad de esta vía.
+Según algunos expertos, incluido el físico de la UPM, lo cierto es que EEUU ya
+tenía dudas con respecto al ITER, porque “no estaba poniendo toda la carne en
+el asador”, opina. A pesar de que la comunidad científica estadounidense
+también participa activamente en el proyecto, esta ambiciosa apuesta está
+liderada por Europa y por Japón, y tampoco faltan otros grandes actores
+mundiales, como Rusia o Corea del Sur.
+
+¿Qué pasará con el acelerador de Granada?
+
+Otro proyecto relacionado con el ITER es IFMIF-Dones, un acelerador de
+partículas que se está empezando a construir en Granada y que espera resolver
+un problema concreto de los futuros reactores de fusión nuclear. El proceso
+irradia muchos neutrones, así que antes de poner en marcha esta fuente de
+energía de forma comercial es necesario encontrar los materiales adecuados
+para que soporten ese daño a largo plazo. La buena noticia es que “los
+materiales estructurales van a recibir irradiaciones similares tanto si la
+tecnología empleada es de campos magnéticos como si es inercial”, comenta el
+presidente del Instituto de Física Nuclear Guillermo Velarde.
+
+De hecho, este centro ha estudiado esta cuestión. La única diferencia es que en
+el caso de la fusión magnética la irradiación de los materiales es continua (es
+decir, los neutrones impactarían de forma ininterrumpida). Sin embargo, en el
+caso de la fusión inercial, el láser dispara de forma intermitente. En definitiva, a
+pesar de que el acelerador de partículas de Granada está pensado para las
+condiciones específicas de la fusión magnética, podría servir perfectamente
+para el desarrollo de plantas basadas en la fusión inercial vía láser.
+Hito histórico de EEUU en fusión nuclear: qué
+falta ahora para tener energía inagotable
+
+Por primera vez, un experimento de fusión nuclear obtiene más energía de la que consume, un hito científico con una
+tecnología inesperada que abre muchos interrogantes

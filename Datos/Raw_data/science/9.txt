@@ -1,0 +1,108 @@
+Para localizarlo se utiliza un detector de neutrones,
+básicamente, un cristal de litio, cesio e itrio que destella
+brevemente al recibir un impacto. Este método ya se ha
+empleado en otras sondas, en concreto para la búsqueda agua
+en Marte, pero en Luna-H Map, aprovechando que volará muy
+bajo, permitirá componer mapas de distribución de hielo con
+mucha más resolución.
+
+La agencia japonesa ha aportado dos satélites a esta misión.
+EQUULEUS analizará el plasma presente en las proximidades
+de nuestro satélite, un factor importante para prever la
+protección de futuros astronautas. Y también los destellos
+producidos cuando un meteorito impacta sobre la Luna.
+Pese a no ir tripulada, la cápsula Orión está monopolizando la
+atención de quienes siguen la exploración espacial. Sobre todo,
+por las espectaculares vistas de la Luna que ha enviado (la
+cámara está situada en un panel de células solares que, al
+moverse, permite enfocar a uno u otro lado). En cuanto se
+apagó la última fase del cohete, ya con la cápsula en ruta a la
+Luna, se desprendieron diez pequeños satélites que iban de
+pasajeros en el viaje. Como una perdigonada, todos ellos
+entraron en una ruta similar hacia nuestro satélite. Alguno
+falló, pero la mayoría de ellos siguen activos, con misiones
+variopintas.
+
+Otro, en cambio, puede haber tenido más suerte. O no. Es el
+NEA Scout, un pequeño satélite equipado con una vela solar
+desplegable de nueve metros de lado. Como los yates de
+competición, se diseñó para navegar por el espacio impulsado
+solo por la tenue presión del viento solar. Su objetivo, un
+diminuto asteroide descubierto hace un par de años que ni
+siquiera tiene nombre, tan solo una clave: 2020GE.
+
+2020GE es uno de los objetos cuya órbita puede aproximarlos a
+la Tierra. En concreto, en septiembre del año próximo llegará a
+sólo seis millones de kilómetros. Por esa fecha estaba previsto
+que el velero solar se le aproximase en un sobrevuelo a cámara
+lenta (apenas a 100 Km/h), lo que permitiría a sus cámaras
+apreciar en su superficie detalles de 10 centímetros. Por
+desgracia, no está claro que la operación vaya a tener éxito. De
+momento, las estaciones de rastreo no han podido establecer
+contacto con el satélite.
+Como los demás, EQUULEUS también lleva su propio sistema
+de propulsión: un motor de agua. Carga litro y medio que,
+calentado a 100 grados, se convierte en vapor que se expulsa
+por las toberas. No ofrece mucho impulso. Más o menos, como
+un motor iónico.
+
+El otro satélite japonés, OMOTENASHT es el único de los diez
+que debía posarse en la Luna. Eso sí, empleando un método
+algo violento. La cápsula, de 700 gramos, frenaría su descenso
+disparando un pequeño motor a solo 100 metros de altura. A
+partir de ahí, seguiría en caída libre, amortiguando el impacto
+mediante un airbag. A bordo, solo dos instrumentos: Un
+detector de radiación y —naturalmente- un acelerómetro para
+medir la crudeza del golpe.
+
+No es la primera vez que se utiliza este método. Ya en los años
+sesenta, la NASA envió a la Luna tres sondas de la seria Ranger,
+que debían depositar un sismómetro en la Luna. El
+instrumento iba envuelto en una esfera de madera de balsa, un
+material libero que debía deformarse en el impacto,
+absorbiendo así buena parte de la energía del choque. Ninguna
+de las tres consiguió su objetivo.
+
+Siguiendo esa triste tradición, OMOTENASHI tampoco ha
+tenido éxito. Tras una serie de problemas con las
+comunicaciones, el día 21, la agencia japonesa anunció por
+Twitter que daba por perdido a su pequeño explorador.
+Casi todos esos satélites están basados en un diseño común: el
+Cubesat. Son vehículos compuestos por módulos cúbicos de
+solo diez centímetros de arista. Según las necesidades, puede
+utilizarse solo uno o varios ensamblados. En el caso de Artemis,
+el más común es el de seis unidades: unas se destinan a
+sistemas de propulsión y otras a alojar los experimentos
+propiamente dichos. En todo caso, es una opción económica y
+fiable, ya que se trata de un diseño muy probado.
+
+Alguno ha sido promocionado por agencias especiales como la
+japonesa JAXA o la propia NASA; otros responden a intereses
+de ciudadanos privados, como el bautizado Team Miles, un
+artefacto del tamaño de una caja de zapatos equipado con un
+juego de cuatro motores iónicos de nuevo diseño. Emiten iones
+de yodo y proporcionan apenas medio gramo de impulso,
+suficiente para —sin prisa- alterar su posición o trayectoria.
+
+Otros satélites se destinarán a estudios sobre la Luna. LunIR y
+Lunar Ice Cube deben operar desde la órbita lunar, buscando la
+firma característica de ciertas emisiones de bases, en
+particular agua y otros elementos volátiles. Eso sí, su viaje será
+largo. Ice Cube, por ejemplo, sigue una trayectoria que tardará
+tres meses en alcanzar la Luna. Ha de ser así porque se trata de
+llegar allí con muy poca velocidad de forma que el pequeño
+motor de a bordo (también de propulsión eléctrica) pueda
+frenarlo y forzar su entrada en órbita.
+
+La presencia de agua en la superficie lunar es el santo grial de
+muchas exploraciones. El satélite LunaH-Map intentará
+detectar hielo oculto hasta una profundidad de un metro. Su
+órbita le llevará a pasar sucesivamente sobre los polos de la
+Luna, concretamente por la vertical del cráter Shackelton, uno
+de los más prometedores, situado justo en el polo Sur.
+
+Los pasajeros olvidados del “Artemis P
+
+En cuanto se apagó la última fase del cohete, se desprendieron diez pequeños
+satélites que iban en una ruta similar hacia la Luna. Alguno falló, pero la mayoría
+de ellos siguen activos, con misiones variopintas

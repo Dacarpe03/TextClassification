@@ -1,0 +1,124 @@
+En este caso, los investigadores utilizaron el Telescopio Espacial
+de Rayos Gamma Fermi y el Observatorio Neil Gehrels Swift
+para observar el evento durante un período de 5 minutos, y
+descubrieron que la emisión de alta energía es generada por
+electrones que se mueven cerca de la velocidad de la luz. Según
+una posible explicación, estos electrones relativistas pueden
+haber sido acelerados en un flujo de salida por el
+'protomagnetar' que se crea durante el proceso de fusión.
+
+Según Gompertz, «se trata de un GRB notable. Normalmente, no
+esperamos que las fusiones duren más de dos segundos. Pero, de
+alguna manera, está impulsó un 'jet' durante casi un minuto
+completo. Es posible que el comportamiento pueda explicarse
+por una estrella de neutrones de larga duración, pero no
+podemos descartar que lo que vimos fuera una estrella de
+neutrones destrozada por un agujero negro. Estudiar más de
+estos eventos nos ayudará a determinar cuál es la respuesta
+correcta y la información detallada que obtuvimos de GRB
+2112114 será invaluable para esta interpretación».
+Los estallidos de rayos gamma (GRB por sus siglas en
+inglés) están entre los fenómenos más brillantes y energéticos
+del Universo. Pero también entre los más misteriosos, ya que los
+científicos no terminan de ponerse de acuerdo sobre la forma en
+que determinados acontecimientos cósmicos, como las
+explosiones de estrellas o las fusiones de estrellas de neutrones,
+son capaces de desencadenar, en apenas unos instantes, una
+cantidad de energía equivalente a la de miles de millones de
+soles. Desde hace décadas, los GRB se han clasificado en dos
+grupos: los cortos, que duran menos de dos segundos, y los
+largos, cuya duración supera los 10 segundos. Se cree que los
+primeros son el resultado de la fusión de dos estrellas de
+neutrones, mientras que los segundos se deben al colapso y
+explosión como supernovas de estrellas muy masivas. Sin
+embargo, existen numerosas observaciones de 'GRB extraños'
+que no encajan en ninguno de los dos grupos y que desafían la
+comprensión de los científicos.
+
+Ahora, la detección de un GRB largo que comparte todas sus
+propiedades (excepto la duración) con los GRB cortos ha puesto
+estas creencias, literalmente, 'patas arriba”. El inusual fenómeno
+se describe en cinco artículos diferentes publicados esta semana
+en Nature y Nature Astronomy.
+Parecía un evento largo normal
+
+En palabras de Ratinejad, en principio el evento se parece «a
+cualquier otro que hayamos visto antes de un estallido largo de
+rayos gamma». Y dado que todas las demás fusiones de estrellas
+de neutrones confirmadas iban acompañadas de ráfagas que
+duraban menos de dos segundos, «teníamos todos los motivos
+para esperar que este GRB de 50 segundos hubiera sido creado
+por el colapso de una estrella masiva. Este evento representa un
+cambio de paradigma emocionante para la astronomía de
+estallidos de rayos gamma»
+
+Bin-Bin Zhang y sus colegas de la universidad china de
+Nanjing, señalan por su parte en el tercer estudio que el
+estallido en sí, a pesar de mostrar las características de un GRB
+corto, es demasiado largo para incluirlo en esta categoría, y
+sugieren la existencia de un 'nuevo progenitor' que pueda
+explicar tanto las emisiones de rayos gamma como la kilonova.
+
+Normalmente, un GRB es seguido por un resplandor que puede
+llegar a durar incluso varios días y que se comporta de una
+forma muy característica, que puede ser modelada por los
+científicos.
+
+Características notables
+
+El cuarto estudio, dirigido por Alessio Mei, del Instituto de
+Ciencias de Gran Sasso, en Italia, informa de que las emisiones
+de rayos gamma de alta energía del GRB empezaron alrededor
+de 16 minutos después del GRB y duraron más de 5 horas. Los
+investigadores proponen que son producidos por los fotones
+liberados la kilonova. Y en el quinto y último
+estudioBenjamin Gompertz, de la universidad británica de
+Birmingham, y sus colegas explican que la radiación de alta
+energía emitida por GRB 211211A es consistente con un
+escenario impulsado por una fusión.
+El 11 de diciembre de 2021 se observó un brillante estallido de
+rayos gamma, identificado como GRB 211211A, que duró
+alrededor de un minuto (50 segundos) y que venía de una galaxia
+a1.100 millones de años luz de distancia. La duración del
+fenómeno, relativamente larga, indicaría normalmente el
+colapso de una estrella masiva en una supernova. Pero este
+evento en concreto contenía un exceso de luz infrarroja, fue
+mucho más débil y se desvaneció más rápido de lo que suele
+hacer una supernova clásica, lo que sugiere que algo diferente
+estaba sucediendo. En varios de los estudios se demuestra que
+esa luz infrarroja detectada en el estallido procedía de una
+kilonova, un raro evento que tiene lugar cuando dos estrellas de
+neutrones, o una estrella de neutrones y un agujero negro,
+chocan y se fusionan, produciendo grandes cantidades de
+elementos pesados como oro y platino. Es el caso del primero de
+los artículos, dirigido por Eleonora Troja, de la Universidad
+de Roma.
+
+En el segundo, un equipo capitaneado por Jillian Ratinejad,
+de la Universidad de Northwestern, en Illinois, llega a la misma
+conclusión y sugiere que las curvas de luz observadas en el GRB
+(que normalmente no se ven en los eventos largos asociados a
+supernovas), podrían ser indicativos de un evento de fusión.
+Según Matt Nicholl, coautor de esta investigación,
+«descubrimos que este evento produjo alrededor de 1.000 veces
+la masa de la Tierra en elementos muy pesados. Esto apoya la
+idea de que estas kilonovas son las principales fábricas de oro
+del Universo».
+
+El hallazgo, por lo tanto, cambia también el modo en que los
+astrofísicos pueden buscar el origen de los elementos pesados.
+Aunque los investigadores han podido estudiar a fondo las
+'fábricas astronómicas' que producen los elementos más
+ligeros, como helio, silicio y carbono, la creación 'en directo' de
+grandes cantidades de elementos pesados es algo que se ha
+observado muy pocos veces.
+La explosión de una
+kilonova pone 'patas arriba'
+lo que creíamos saber sobre
+los estallidos de rayos
+gamma (GRB)
+
+Un extraño GRB que no encajaba en ninguna
+categoría ha dado a los científicos una nueva
+perspectiva sobre el origen y la naturaleza de estos
+poderosos eventos

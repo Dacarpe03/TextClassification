@@ -1,0 +1,125 @@
+"Es myy difícil tratar las enfermedades cerebrales, porque los fármacos no
+llegan con suficiente cantidad para ser eficaces”, explica el investigador en
+declaraciones a Teknautas. "La principal responsable es la barrera
+hematoencefálica, que separa la sangre del cerebro y no deja pasar a la gran
+mayoría de las moléculas”. En realidad, tiene una función imprescindible,
+"porque evita que las toxinas lleguen a las neuronas". A la vez, es la puerta
+principal de entrada de nutrientes en el cerebro. Si tuviéramos la llave para
+cruzarla a nuestro antojo, "llegaríamos a cada una de las partes del cerebro que
+nos interesan". Para los investigadores, estudiarla es un reto y una
+oportunidad, porque "los capilares del cerebro están a menos de 10 micras de
+
+Sin embargo, aún estamos lejos de entender cómo superar ese muro con
+eficiencia. Entre las moléculas que no pueden alcanzar el cerebro están "los
+fármacos más prometedores, que podrían resultar terapias eficientes contra
+patologías que en la actualidad son incurables, desde el alzhéimer a los
+tumores cerebrales", comenta. Hoy en día, las terapias más avanzadas se
+basan en anticuerpos y nanopartículas que, por el momento, no han conseguido
+franquear ese obstáculo o no lo han hecho de la manera ideal.
+
+"Se han hecho muchos esfuerzos por desarrollar moléculas llamadas
+lanzadoras o caballos de Troya", destaca Benjamí Oller. Como en la guerra entre
+griegos y troyanos, cuando los primeros consiguieron introducirse en la ciudad
+de sus enemigos dentro de un gran caballo de madera, esta metáfora se utiliza
+para explicar cómo algunos fármacos podrían superar barreras imposibles
+hasta ahora. "Muchos laboratorios han intentado utilizar moléculas que usan
+los medios de transporte del propio cuerpo, como los receptores, para hacer
+llegar los fármacos", señala. En teoría funciona, porque de esta manera pueden
+llegar incluso moléculas muy grandes, pero estos métodos naturales resultan
+poco selectivos. "Los receptores que median el transporte también están en
+otros sitios del cuerpo y esto hace que el fármaco se pierda por el camino y no
+llegue todo al cerebro", afirma. La efectividad, desde el punto de vista
+cuantitativo, es muy baja.
+La idea es que por esa nueva puerta se puedan introducir fármacos que ya se
+están desarrollando o que han sido probados y que han fallado, precisamente,
+porque no pueden cruzar la barrera hematoencefélica. Para aplicarlos por esta
+nueva vía, sería necesario modificarlos ligeramente. "Ya no sería exactamente
+la misma molécula, pero la modificación sería mínima y deberían ser capaces
+de cruzar”, explica el investigador del 1QS.
+
+Benjamí Oller Salvia ya tiene una amplia experiencia en este campo tras
+desarrollar su tesis doctoral trabajando con Ernest Giralt y Meritxell Teixidó en el
+Instituto de Investigación Biomédica (IRB Barcelona) y un posdoctorado en
+Cambridge. Su objetivo fue el desarrollo de péptidos, pequeños trozos de
+proteína que, en este caso, son capaces de interaccionar con receptores y con
+métodos de transporte naturales dentro del cuerpo. Unidos a fármacos, "ofrecen
+buenos resultados con células y animales", asegura. Aunque otros laboratorios
+habían tenido ideas parecidas, "demostramos que hacerlos resistentes a la
+degradación en la circulación era particularmente relevante para incrementar su
+eficacia". Uno de los péptidos desarrollados era un derivado de una molécula
+que se encuentra en el veneno de la abeja. "Hicimos más pequeña la molécula,
+de forma que era mucho menos tóxica, más fácil de sintetizar e incluso más
+eficiente en el transporte al cerebro que la molécula natural", comenta.
+
+De todo ese proyecto salió una nueva empresa, llamada Gate2Brain, cuya
+responsable es Meritxell Teixidó, lo que demuestra que más allá de los
+resultados concretos que se persiguen, la investigación de vanguardia también
+mueve la economía más innovadora. En un futuro, si el proyecto que arranca
+Benjamí Oller Salvia ahora tiene éxito, podría generar también una nueva
+compañía biotecnológica, puesto que se basa en un concepto sin precedentes y
+con un gran potencial de impacto.
+Por eso, la idea de los investigadores del IQS es proponer una alternativa a esos
+receptores naturales y "tratar de abrir una nueva puerta que incrementaría la
+eficacia y la selectividad", Así lo expresa el nombre del proyecto, Creating an
+Ortogonal Gate to the Brain, cuyo acrónimo es OBGate. Aunque no puede
+adelantar muchos detalles y se trata de una investigación de vanguardia en un
+campo que aún está por explorar, el científico explica lo esencial: "Estamos
+probando un sistema basado en nanopartículas que nos permitan alterar de
+manera transitoria la barrera hematoencefálica de forma que se pueda abrir
+esta puerta nueva".
+
+Empezar por la metástasis cerebral
+
+Aunque esta vía podría ser útil para cualquier enfermedad relacionada con el
+cerebro, pretenden realizar una prueba de concepto en un proceso tumoral. En
+colaboración con el grupo de Manuel Valiente, experto del Centro Nacional de
+Investigaciones Oncológicas (CNIO), estudiarán un modelo de metástasis
+cerebral de cáncer de mama. "Cuando la metástasis ya está muy extendida, la
+barrera hematoencefálica está dañada, pero en metástasis más pequeñas
+parece que aún permanece intacta y queremos demostrar que podemos llegar
+hasta ellas y eliminarlas", afirma.
+
+El trabajo comenzará por el estudio de células in vitro. "Cuando tengamos algo
+que funcione, lo haremos con animales, porque es necesario conocer cómo
+afectaría al resto de la fisiología", comenta el experto. Aunque disponen de
+modelos de laboratorio de células de barrera hematoencefálica, ninguno imita
+suficientemente bien las condiciones biológicas reales. Por el momento, el
+actual proyecto pretende llegar hasta la prueba de concepto en animales de
+laboratorio. Si todo va bien, el siguiente paso serían los ensayos preclínicos y,
+después, clínicos, comenzando por pacientes que sufren enfermedades graves
+y no tienen otra alternativa terapéutica. En ese sentido, un aspecto fundamental
+será controlar posibles consecuencias no deseadas de la alteración de la
+barrera hematoencefálica. "La cuestión es que el beneficio terapéutico
+compense otros efectos, que esperemos que sean mínimos”, apunta.
+| cerebro es fascinante, complejo y bastante desconocido. Cada día lo
+E entendemos un poco mejor gracias a los avances científicos y
+tecnológicos, pero queda mucho por hacer y, en gran medida, sigue siendo un
+misterio. Del mismo modo, las enfermedades que afectan a este órgano
+también nos resultan muy difíciles de abordar desde todos los puntos de vista.
+En muchos casos, ni siquiera conocemos la causa de estas patologías, cómo
+se desarrollan o cómo diagnosticarlas a tiempo. Y, desde luego, encontrar
+tratamientos eficaces es aún un reto mayor.
+
+Parte del problema tiene que ver con la barrera hematoencefálica, una muralla
+celular que regula el paso de moléculas desde el torrente sanguíneo hasta el
+cerebro. Esta barrera protege el tejido cerebral, pero también nos impide
+acceder a este órgano. Es decir, que resulta muy difícil hacer llegar los
+medicamentos que podrían curar enfermedades, un desafío en el que trabajan
+muchos investigadores. Entre ellos, Benjamí Oller Salvia, del Institut Químic de
+Sarriá
+
+(1Q5), de la Universitat Ramon Llull, acaba de lograr una prestigiosa beca
+Starting Grant, una de las ayudas más destacadas del Consejo Europeo de
+Investigación (ERC), que concede 1,5 millones de euros durante cinco años a
+jóvenes científicos con proyectos prometedores. ¿Cuál es el suyo? Encontrar
+una nueva puerta en el cerebro.
+Este español busca una
+puerta 'imposible' en el
+cerebro para suministrar
+fármacos
+
+Benjamí Oller Salvia acaba de obtener una
+prestigiosa beca Starting Grant para un
+
+ambicioso objetivo: encontrar la llave que
+permita cruzar la barrera hematoencefálica

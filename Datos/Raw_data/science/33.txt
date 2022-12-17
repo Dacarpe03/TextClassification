@@ -1,0 +1,85 @@
+El quipu más antiguo data del año 2.500 a.C. y fueron utilizados hasta la
+colonización del imperio español. Los conquistadores españoles los
+consideraron objetos idólatras y peligrosos, por lo que destruyeron
+muchos de ellos incinerándolos. Los quipus normalmente estaban
+hechos de algodón o lana de pelo de llama o alpaca. Se construyen con
+una cuerda principal, sin nudos, de la cual penden otras anudadas y de
+diversos colores, formas y tamaños. Los colores identifican sectores —por
+ejemplo, pardo es el correspondiente al gobierno; carmesí, es el del
+propio Inca, soberano del imperio; rojo, la guerra— mientras que los
+nudos indican cantidades — incluyendo el número cero, la ausencia de
+nudos—.
+
+Cada cuerda contiene un grupo de nudos que representan un número.
+En el libro Código del quipu: un estudio en medios, matemáticas y cultura,
+Marcia Ascher y Robert Ascher determinan, tras analizar cientos de
+quipus, que existen tres tipos fundamentales de nudos: simples, que son
+
+nudos de una vuelta —y que, en el libro, se representan con una s—;
+
+largos, consistentes en un nudo con una o más vueltas adicionales (L); y
+con forma de ocho (E).
+Los quipucamayoc no empleaban los quipus para realizar operaciones —
+estos servían únicamente para almacenar y transmitir información—
+sino una especie de ábaco, llamado yupana, o el quipu de granos de maíz.
+
+No se sabe muy bien cómo funcionaba, pero se cree que era parecido a
+otros ábacos desarrollados en Europa y Oriente. En la novela de Dumett
+se describe como aprende por sí mismo a usarlo observando a los
+comerciantes.
+
+Esta información, como mucha otra de la cultura inca, desapareció tras la
+llegada de los españoles; los incas no desarrollaron escritura, por lo que
+no quedaron registros escritos. Parte de sus matemáticas sí quedó
+capturada en nudos de cuerda que uno no puede dejar de preguntarse
+como hubieran evolucionado sin la conquista española.
+Los quipus emplean, como nuestros números indo-arábigos, la base
+decimal. Es decir, en la cuerda se diferencian posiciones, en cada una de
+las cuales se indican el número de unidades, decenas, centenas, millares,
+etc. que tiene el número representado. Los dígitos en la posición de
+unidades son representados por nudos largos—por ejemplo, el 4 es un
+nudo con cuatro vueltas—. Debido a la forma en que los nudos se atan, el
+1 no puede ser mostrado de esta manera y está representado en esa
+posición por una figura en forma de ocho.
+
+En las posiciones superiores —decenas, centenas, etc.— las cifras están
+representadas por grupos de nudos simples —por ejemplo, 40 se escribe
+con cuatro nudos simples seguidos, en la posición decena—. El cero es
+representado por la ausencia de un nudo en la posición apropiada. En el
+sistema de los Ascher, lo denotan con una X. Así, 804 quedaría descrito
+por 8s, X, 4L.
+
+Los responsables de elaborar los quipus eran los llamados quipucamayoc,
+que aprendían su oficio en la yachay wasi o casa de enseñanza. Los
+quipucamayoc sabían sumar, restar, multiplicar y dividir, pero no se
+trataba de meros contables, ya que pertenecían a la nobleza, debían tener
+más de cincuenta años y formaban una casta cerrada.
+Uno de los mantras favoritos de los matemáticos se atribuye a Galileo
+Galilei: el universo está escrito en clave matemática. Sin embargo, aunque
+las matemáticas son un lenguaje universal, la manera en que las
+describimos puede ser muy diferente. Por ejemplo, frente a la necesidad
+básica de contar, se desarrolló el concepto de número. Pero, en cada
+lugar, las matemáticas se vistieron con ropajes muy diversos para
+capturar la información de las cantidades: los babilonios usaban el
+sistema sexadecimal y escribían los números con muescas en tablillas de
+arcillas; los griegos usaban letras; los incas, los llamados quipus, que eran
+cuerdas anudadas. Los quipus han vuelto a la actualidad con la reciente
+publicación de la monumental novela El espía del Inca (Alfaguara), del
+peruano Rafael Dumett, protagonizada por un tejedor de quipus, dotado
+de extraordinarias habilidades aritméticas.
+
+Los quipus fueron inventados para poder enviar información, a veces
+codificada, desde cualquier punto del imperio —que se extendía por gran
+parte de Sudamérica y era tan extenso y variado como el imperio
+romano— a la capital, Cuzco. La palabra quipu proviene del quechua y
+significa nudo. Así, los quipus son nudos que sirven para representar
+
+conceptos matemáticos —números—; siglos más tarde, las matemáticas
+modernas se ocuparán a su vez de estudiar y clasificar los nudos (con los
+
+extremos unidos).
+Nudos que representan números, las
+matemáticas de los incas
+
+En la civilización quechua utilizaban cuerdas anudadas en lugar de cifras para
+representar conceptos matemáticos

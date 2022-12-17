@@ -1,0 +1,73 @@
+Este trabajo constituye “un paso hacia un programa más amplio de pruebas
+de la física de la gravedad cuántica utilizando un ordenador cuántico” que no
+sustituye a los sondeos directos de la gravedad cuántica, pero “ofrece un
+potente banco de pruebas" para ejercitar algunas de sus ideas, agregó.
+
+La simulación se realizó con un ordenador cuántico formado por un circuito
+de nueve cúbits (bit cuántico), en el que un cúbit teletransportado a través
+del procesador muestra la misma dinámica que se esperaría si cruzara un
+agujero de gusano transitable.
+La gravedad cuántica es una teoría física hipotética que trata de conectar la
+gravedad con la física cuántica, dos descripciones fundamentales y bien
+estudiadas de la naturaleza que parecen inherentemente incompatibles
+entre sí.
+
+El principio holográfico es una forma de conectar diferentes teorías que
+podría ayudar a reconciliar la mecánica cuántica y la relatividad general,
+explicando la relatividad como emergente de la física cuántica en un sistema
+físico restringido. "Hemos encontrado un sistema cuántico que presenta las
+propiedades clave de un agujero de gusano gravitacional y que, sin embargo,
+es lo suficientemente pequeño como para implementarlo en el 'hardware'
+cuántico actual", explicó Maria Spiropulu, investigadora de Caltech y autora
+principal del estudio.
+Los investigadores exploraron la equivalencia de los agujeros de gusano con
+el teletransporte cuántico y realizaron los primeros experimentos que
+indagan en la idea de que la información que viaja de un punto del espacio a
+otro puede describirse tanto en el lenguaje de la gravedad (los agujeros de
+gusano) como en el de la física cuántica (el entrelazamiento cuántico).
+
+En el futuro, el equipo espera ampliar este trabajo a circuitos cuánticos más
+complejos. Aunque aún faltan años para que los ordenadores cuánticos sean
+auténticos, el equipo tiene previsto seguir realizando experimentos de este
+tipo en las plataformas de computación cuántica existentes.
+Aunque la información cuántica puede transmitirse a través del dispositivo, o
+teletransportarse, de diversas maneras, se demostró que el proceso
+experimental es equivalente, al menos en algunos aspectos, a lo que podría
+ocurrir si la información viajara a través de un agujero de gusano.
+
+Los experimentos ofrecen una primera demostración de la posible viabilidad
+futura del uso de ordenadores cuánticos para probar las teorías de la
+gravedad cuántica.
+Sin embargo, en 2017 se ideó un escenario en el que una energía repulsiva
+negativa puede mantenerlos abiertos el tiempo suficiente para que algo pase
+de un extremo a otro. Un equipo encabezado por el Instituto Tecnológico de
+California (Caltech) de Estados Unidos ha desarrollado por primera vez un
+experimento cuántico para estudiar el comportamiento de un agujero de
+gusano holográfico (teórico) y sus resultados los publica Nature.
+
+La demostración, realizada con el procesador Google Sycamore, representa
+un paso hacia la posibilidad de estudiar la gravedad cuántica en el
+laboratorio. El experimento, precisan los investigadores, no ha creado un
+agujero de gusano real (una ruptura en el espacio y el tiempo), sino que
+permite sondear las conexiones entre los agujeros de gusano teóricos y la
+física cuántica, una predicción de la llamada gravedad cuántica.
+n agujero de gusano es un puente entre dos regiones del espacio-
+U tiempo y, aunque su existencia no se ha comprobado, es compatible
+con la Teoría de la Relatividad. La novedad es que un equipo ha podido
+observar algunas de sus dinámicas con una simulación holográfica gracias a
+un ordenador cuántico.
+
+Los agujeros de gusano o puentes de Einstein-Rosen se popularizaron en la
+ciencia ficción como una forma de viajar en el espacio-tiempo, pero la Teoría
+de la Relatividad dice que nada puede pasar a través de ellos.
+Un ordenador cuántico
+logra la primera
+simulación de un agujero
+de gusano
+
+Los agujeros de gusano o puentes de Einstein-
+Rosen se popularizaron en la ciencia ficción
+como una forma de viajar en el espacio-tiempo,
+
+pero la Teoría de la Relatividad dice que nada
+puede pasar a través de ellos

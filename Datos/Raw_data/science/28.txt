@@ -1,0 +1,133 @@
+a contaminación del aire produce siete millones de muertes
+L prematuras anuales en todo el planeta, según las cifras de la
+Organización Mundial de la Salud (OMS). En Europa, serían unas 400.000, y
+en España, no menos de 9.000. Los gases tóxicos proceden del uso de
+combustibles fósiles. En algunas zonas, las industrias pueden tener un papel
+más o menos destacado, pero la principal fuente de estas emisiones es el
+tráfico rodado. Mientras esperamos a que cambie el modelo de transporte
+por medio de la electrificación, ¿qué se puede hacer? El problema es
+demasiado grave como para no tratar de atajarlo por cualquier medio.
+
+Al menos eso piensan algunos científicos que en los últimos años han
+apostado por aprovechar los materiales de construcción para que sean los
+edificios, de forma pasiva, los que ayuden a resolver el problema. La idea es
+que ciertos compuestos químicos que se pueden incluir en las fachadas se
+comportarían como fotocatalizadores; es decir, que, gracias a la luz solar,
+podrían reaccionar con el aire y descontaminarlo. No es ciencia ficción:
+existe y funciona desde hace tiempo, pero el coste económico y escasa la
+efectividad han lastrado la implantación de este modelo. Al menos hasta
+ahora, porque unos investigadores españoles han irrumpido con una nueva
+propuesta.
+Así que muchos especialistas internacionales en este campo no dejan de
+buscar alternativas. “Lo primero es que sean materiales más económicos,
+pero también que sean más efectivos”, comenta el investigador. En ese
+sentido, el principal problema del dióxido de titanio es que solo funciona con
+la luz ultravioleta, una pequeña parte de la radiación solar que recibimos. “La
+idea era obtener compuestos que trabajen tanto con ultravioleta como con
+luz visible”, afirma. Para conseguirlo, la Universidad de Córdoba apostó por
+los hidróxidos dobles laminares (HDL), que resuelven bien todos los desafíos,
+como ya han demostrado en proyectos anteriores.
+
+Sin embargo, ahora se añade una importante novedad: han descubierto que
+modificando estos compuestos por medio de nanopartículas de grafeno se
+produce una reacción química que prolonga el efecto gracias a los
+electrones. En la práctica, esto significa que “cuando dejan de estar
+iluminados siguen trabajando el proceso catalítico hasta dos horas”. La
+mejora es muy significativa con respecto a lo que hay en la actualidad, sobre
+todo porque la curva de contaminación en una ciudad suele estar asociada al
+tráfico rodado y los picos se producen en ausencia de la luz solar, sobre todo
+en horario de invierno. Por la mañana, tendría menos incidencia, ya que,
+aunque comiencen a emitirse los NOx muy pronto, los niveles altos de
+contaminación se prolongan varias horas; cinco o seis horas. Sin embargo, el
+segundo gran pico de tráfico se produce cuando se vuelve a casa entre la
+tarde y la noche, haciendo inútiles los sistemas fotocatalíticos, salvo que se
+imponga la propuesta de estos investigadores y los materiales sigan
+descontaminando sin luz solar directa.
+
+Además, hay que tener en cuenta que “estos productos no están funcionando
+bien en el norte de Europa porque la incidencia de la luz solar es baja y
+reciben poca radiación ultravioleta”. El hecho de que el sistema pueda
+funcionar con la luz visible sería determinante en esos casos, sobre todo
+porque los investigadores han calculado que el efecto se consigue incluso si
+los materiales se exponen a solo cinco minutos de luz. “Una vez que lo
+iluminas, el material acumula electrones y no es necesario que mucho
+tiempo”, asegura Sánchez.
+Un grupo de investigación de la Universidad de Córdoba que está adscrito al
+Instituto Universitario de Química para la Energía y Medioambiente
+(IQUEMA) ha patentado un nuevo compuesto químico y acaba de publicar su
+trabajo en la revista científica Applied Catalysis B: Environmental. En
+apariencia, su idea es similar, porque quieren descontaminar el aire gracias a
+las fachadas, pero su innovación lo haría de forma más barata y eficaz,
+fundamentalmente, porque incorpora una novedad casi increíble: la
+fotocatálisis se lograría incluso por la noche.
+
+Hasta ahora, la apuesta se centraba en el dióxido de titanio, que mezclado
+con el resto del mortero (cemento, arena, agua y otros elementos) tenía el
+efecto fotocatalizador y permitía eliminar los óxidos de nitrógeno (NOx)
+procedentes del tráfico. Esa tecnología ya tiene una década, pero en un
+principio se utilizó para la limpieza de las fachadas. “Con la misma reacción
+química que estamos usando para descontaminar gases, en su origen
+descomponía moléculas que ensuciaban los edificios, de manera que se
+mantuvieran limpios, especialmente, los de color blanco”, explica a
+Teknautas Luis Sánchez, investigador responsable de este trabajo.
+
+Fue a partir de entonces cuando este grupo de la Universidad de Córdoba y
+otros investigadores se dan cuenta de que el sistema se puede utilizar
+mejorar la calidad del aire. “En la comunidad científica comenzó a
+incrementarse el interés, especialmente con respecto a los NOx, y
+empezaron a surgir productos cerámicos, pinturas y hormigones que
+incorporaban esta novedad”, señala. Sin embargo, esta opción no está
+triunfando en el mercado. Entre otras cosas, porque el dióxido de titanio es
+muy caro en comparación con el resto del mortero. Los cálculos indican que
+incrementa los costes tres o cuatro veces. Por eso, a la hora de la verdad
+solo se utiliza de manera esporádica y simbólica en algunos edificios.
+¿Cómo funciona exactamente? Cuando la luz irradia el material, genera una
+serie de cargas que reaccionan con las moléculas de la superficie. Los gases
+se expanden al máximo y, al tocar con las fachadas, se produce una primera
+fijación sobre la pared. El contacto provoca una oxidación que cambia los
+gases. “Es un proceso en el que las moléculas son absorbidas, reaccionan
+químicamente y se transforman en partículas sólidas que quedan allí
+atrapadas”, explica. Si todos los edificios de una calle incorporasen este
+sistema, las pruebas indican que tendría un gran efecto.
+
+El futuro y la diversidad de aplicaciones
+
+En cualquier caso, este grupo de investigación ya está preparando un nuevo
+experimento para medir los efectos de su innovación por medio de un
+“demostrador” en las calles de Córdoba. La idea es que el nuevo compuesto
+podría ir mezclado con mortero, como pintura superficial o a través de otras
+soluciones para “buscar las condiciones idóneas de aplicación de estos
+materiales”. Si todo va bien, en un futuro el nuevo compuesto podría
+interesar a las empresas. Los expertos también creen que, si se logran
+buenos resultados y el producto no encarece mucho los costes, las
+normativas podrían empezar a incluir la obligación de incorporar este tipo
+de materiales descontaminantes en el sector de la construcción, al igual que
+en los últimos años se han incluido otras especificaciones
+medioambientales. En realidad, lo más efectivo sería abandonar los motores
+de combustión, pero siendo realistas es probable que aún se mantengan
+durante décadas.
+No obstante, los científicos también imaginan otras aplicaciones, porque la
+fotocatálisis, a día de hoy, ya es un proceso muy extendido, sobre todo en
+interiores. Por ejemplo, ya son comunes los hospitales con recubrimientos
+fotocatalíticos en los quirófanos, de manera que cuando acaba una
+operación, se desinfectan las paredes con luces ultravioletas. “En algunos
+países, como Japón, incluso se está aplicando ya en baños para eliminar
+malos olores. En este último caso, cuando una persona sale del lavabo se
+apaga la luz, pero con nuestros materiales seguiría descontaminando”,
+comenta el experto de la Universidad de Córdoba.
+
+Otra posible línea de trabajo es la descontaminación de aguas, un ámbito en
+el que la fotocatálisis también se está usado a pesar de que presenta
+obstáculos muy parecidos a los del sector de la construcción. “El problema
+es que requiere mucho gasto de energía, ya que funciona por medio de
+lámparas ultravioleta de un alto consumo”, señala el investigador. En teoría,
+el nuevo compuesto podría ayudar a reducirlo, precisamente, porque en
+contacto con el agua podría seguir descontaminando sin luz directa.
+El invento español que
+logra limpiar el aire de
+las ciudades por la noche
+Investigadores de la Universidad de Córdoba
+desarrollan un nuevo compuesto que, incluido en
+
+los materiales de las fachadas, elimina los gases
+tóxicos procedentes del tráfico
