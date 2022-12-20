@@ -1,0 +1,11 @@
+Accuracy,Precision,Recall,F1 Score,modelo
+0.875,0.882,0.875,0.877,hinge - Linear SVM averaged
+0.875,0.882,0.875,0.877,log_loss - Linear SVM averaged
+0.875,0.882,0.875,0.877,log - Linear SVM averaged
+0.875,0.882,0.875,0.877,modified_huber - Linear SVM averaged
+0.875,0.882,0.875,0.877,squared_hinge - Linear SVM averaged
+0.875,0.882,0.875,0.877,perceptron - Linear SVM averaged
+0.875,0.882,0.875,0.877,squared_error - Linear SVM averaged
+0.875,0.882,0.875,0.877,huber - Linear SVM averaged
+0.875,0.882,0.875,0.877,epsilon_insensitive - Linear SVM averaged
+0.875,0.882,0.875,0.877,squared_epsilon_insensitive - Linear SVM averaged
