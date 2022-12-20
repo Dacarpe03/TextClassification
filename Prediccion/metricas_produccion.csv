@@ -1,4 +1,7 @@
 Accuracy,Precision,Recall,F1 Score,modelo
+0.883,0.887,0.883,0.884,modified_huber - Linear SVM
+0.833,0.852,0.833,0.837,perceptron - Linear SVM
+0.842,0.856,0.842,0.845,hinge - Linear SVM
+0.858,0.869,0.858,0.859,modified_huber - Linear SVM
 0.875,0.882,0.875,0.877,liblinear - Logistic Regression
-0.833,0.852,0.833,0.837,modified_huber - Linear SVM
-0.842,0.859,0.842,0.846,log - Linear SVM
+0.858,0.869,0.858,0.862,newton-cholesky - Logistic Regression
