@@ -1,0 +1,87 @@
+Los ordenadores necesitan órdenes. Un conjunto de
+instrucciones que les dicten cómo realizar un tipo de tarea
+concreta de una forma determinada. Aquí entran en juego los
+programadores: personas que imaginan y crean las normas en
+un lenguaje comprensible para las máquinas, que hace que
+funcione desde la expendedora de patatas fritas hasta un satélite
+en el espacio, pasando, por supuesto, por todos nuestros
+teléfonos móviles. Aunque parezca algo muy mecánico, en
+realidad requiere de grandes dotes de creatividad, porlo que
+hasta ahora ha sido un terreno casi vedado para la
+inteligencia artificial (IA), que pretende parecerse a la
+humana lo máximo posible. Hasta ahora.
+
+Los algoritmos de inteligencia artificial de Deepmind (la filial
+de Alphabet, empresa matriz que también engloba a Google)
+han logrado increíbles resultados (en algunos casos hasta
+inquietantes) creando imágenes reales o cuadros a partir de
+palabras al azar, piezas de música que podrían haber sido
+escritos por Beethoven o Mozart, o vídeos en los que se
+cambiaban las caras originales por la de actores famosos, gente
+de la realeza o cualquiera que tuviera un rostro. Ahora,
+DeepMind acaba de publicar en 'Science' un estudio en el que
+explica que su IA AlphaCode es capaz de generar código de
+forma creativa a la altura de un programador humano promedio.
+Se trata de un primer paso para que las máquinas enseñen a
+otras máquinas, sin necesidad de una mano de carne y hueso
+detrás, o que se 'reprogramen' ellas mismas, mejorando sus
+programas y habilidades.
+«AlphaCode se basa en un enfoque que solo se basa en datos
+para escribir código, aprendiendo la estructura de los programas
+de ordenador simplemente observando muchos códigos
+existentes», afirma J. Zico Kolter, profesor del Departamento
+de Ciencias de la Computación de la Universidad Carnegie
+Mellon, en un artículo de que comenta el estudio.
+
+Sus autores admiten que, de momento, las habilidades de
+AlphaCode no llegan a englobar todas las capacidades que
+tienen los programadores humanos que crean programas
+comerciales como los que usamos habitualmente (como las
+aplicaciones de nuestro móvil, por ejemplo), sino que está
+optimizada para competir en plataformas como Codeforces.
+Una inteligencia artificial de
+Google, más cerca de 'ser
+humana": ahora puede
+programar
+
+AlphaCode es tan buena escribiendo código de
+forma creativa como lo sería un programador
+promedio
+«Crear soluciones a problemas imprevistos es la segunda
+naturaleza en la inteligencia humana, un resultado del
+pensamiento crítico informado por la experiencia -escriben sus
+autores en el blog de DeepMind, la filial encargada del terreno
+del 'machine learning'-. Los científicos han logrado un gran
+progreso en la generación y comprensión de datos textuales,
+pero los avances en la resolución de problemas siguen limitados
+a problemas matemáticos y de programación relativamente
+simples, o bien a la recuperación y copia de soluciones
+existentes. Como parte de la misión de DeepMind de resolver la
+inteligencia, creamos un sistema llamado AlphaCode que
+escribe programas de computadora a un nivel competitivo«,
+afirman.
+
+Compitiendo contra otros programadores
+
+Para probar la habilidad de AlphaCode, los autores la
+inscribieron en Codeforces, una plataforma donde
+programadores de todo el mundo compiten entre ellos para
+demostrar sus capacidades. Concretamente, los participantes
+reciben toda una retahíla de descripciones de problemas y
+tienen unas horas para escribir un programa que los resuelva, lo
+que requiere «una combinación de pensamiento crítico, lógica,
+algoritmos, codificación y comprensión del lenguaje natural»,
+escriben los autores. La puntuación varía en función de la
+cantidad de problemas solucionados.
+
+La IA se situó a mitad de la tabla clasificatoria: superó al 54%
+de los participantes tras concursar en diez campeonatos.
+«AlphaCode resolvió problemas de lenguaje natural nunca antes
+vistos mediante la predicción iterativa de segmentos de código
+basados en el segmento anterior y generando millones de
+posibles soluciones candidatas. Luego, estas soluciones se
+filtraron y se agruparon, validando que pasaran funcionalmente
+casos de prueba simples, lo que resultó en un máximo de 10
+soluciones posibles, todas generadas sin ningún conocimiento
+incorporado sobre la estructura del código de computadora»,
+explican los autores.
