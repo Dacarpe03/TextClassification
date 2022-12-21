@@ -1,0 +1,64 @@
+La otra forma en la que se forman lunas es mediante capturas.
+Cuando los sistemas solares se están formando hay un estado
+supercaótico de muchos cuerpos que chocan entre ellos. Lo
+que podría producirse aquí serían capturas de cuerpos
+mayores que, a su vez, tuvieran capturados cuerpos menores,
+es decir, planetas con sus lunas. Pero en estas capturas lo que
+ocurre es que nos encontramos con el problema de los tres
+cuerpos, que ya sabemos que es un problema en todos los
+ámbitos.
+
+Cuando se produce una captura es altamente probable que el
+menor de los cuerpos sea eyectado porque los dos cuerpos
+mayores actúan como si fueran un tirachinas. Así que aunque
+en este tipo de formación de satélites, en teoría, sí podría darse
+el caso de la captura de un planeta con satélite que al ser
+capturados se convirtieran en luna y miniluna asociada a ella,
+lo que ocurre es que el cuerpo menos masivo es el que se lleva
+básicamente todo el empujón gravitacional y sale disparado.
+
+Se necesitaría una configuración muy específica en la que la
+luna estuviera a una distancia concreta y que el satélite de la
+luna fuera de una masa tal que siguiera siendo atraído por la
+luna y no por el planeta. Pero sería un rango de parámetros
+extremadamente poco probable. Lo más probable es que o el
+cuerpo de menor masa salga disparado o al final todo quede
+dominado por la gravedad del planeta por lo que, al final, el
+satélite y su minisatélite se convierten en dos lunas del planeta.
+
+Es muy interesante la cuestión de las lunas. De hecho, en
+nuestro Sistema Solar, casi todos los planetas, incluso los
+planetas enanos como Plutón, tienen satélites. Pero también
+hay excepciones a destacar como Venus y Mercurio que no
+tienen. El resto de cuerpos en el Sistema Solar tienen todos
+muchísimas lunas pero siempre dominadas por el planeta.
+No conocemos ningún caso, ni en nuestro Sistema Solar ni
+entre planetas extrasolares, en los que se hayan detectado
+lunas con satélites naturales propios. Sí se han estudiado esas
+posibles configuraciones en teoría y lo que se ha visto es que no
+son configuraciones estables. Lo que sí se puede dar es lunas
+con anillos. Deben ser unos anillos muy, muy compactos
+porque si no, debido a las mareas, todo se deformaría
+demasiado. Pero sí se ha visto, en teoría no en observación, que
+una luna podría tener anillos. También en un rango muy
+restringido. Pero en teoría esto sí sería posible.
+
+Antes de responder a la pregunta, primero tengo que explicar
+cómo se forman los satélites o lunas.
+
+Hay dos vías. En unos casos, cuando se está formando un
+sistema solar, hay colisiones entre objetos, entre planetas
+enanos y otros planetas enanos o entre planetas de tamaños
+relativamente similares. En esos choques se generan nubes de
+desechos que están gravitacionalmente ligadas al planeta y en
+ellas es donde se forman lunas. Esas lunas están asociadas al
+planeta por la gravedad y es muy poco probable que una luna
+esté ligada a otra, a no ser que sea un sistema muy binario, ya
+que, por la gravedad, estarán las dos más unidas al planeta que
+tiene mayor masa y, por eso, su atracción gravitatoria es mayor.
+¿Existen minisatélites que orbiten alrededor de
+lunas de planetas?
+Una luna se describe como un satélite natural de un planeta, así que, por
+
+definición, si nos preguntamos si existen lunas de lunas, la respuesta tendría que
+ser no. Pero si hablamos de satélites de satélites la cuestión es más interesante

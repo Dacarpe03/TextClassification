@@ -1,0 +1,159 @@
+7
+
+¿Qué diferencia hay entre unos
+modelos de reactor y otros?
+
+Existen varios modelos: el utilizado por los científicos
+estadounidenses se basa en el confinamiento inercial: apuntando
+varios potentes láser a un punto microscópico consiguen elevar la
+temperatura y la presión de una minúscula cápsula de oro repleta
+de hidrógeno, deuterio y tritio, generando billones de vatios de
+potencia de fusión, si bien durante un periodo muy corto. Sin
+embargo, de momento, tienen menos recorrido de cara a aplicarse
+en reactores comerciales.
+
+En cambio, los tipo tokamak , como JET, los prototipos asiáticos o
+el futuro ITER, sí tienen, a priori, muchas más papeletas de
+convertirse en una solución viable para llevar la energía de fusión
+auna planta energética conectada, por ejemplo, a una red eléctrica
+que nos permita encender la luz de la cocina con la energía de las
+estrellas. Estos dispositivos, ideados en los años 50 en la URSS,
+son una especie de 'rosquilla' hueca . En su interior, se inyecta una
+pequeña cantidad de este combustible formado por hidrógeno,
+deuterio y tritio, que se calienta a altas temperaturas y se
+convierte en un plasma ionizado que alcanza los 150 millones de
+grados Celsius -temperaturas diez veces más altas que las que se
+dan en el núcleo del Sol-, produciéndose la fusión.
+4.
+
+¿Es una fuente de energía segura?
+
+En una central nuclear de fusión no podría darse un evento similar
+al de Chernóbil o Fukushima: es físicamente imposible. Si algo va
+mal, la temperatura baja inmediatamente de forma natural y la
+reacción se extingue por sí sola.
+
+5
+
+¿Cuándo tendremos el primer reactor
+comercial?
+
+A pesar del avance del Laboratorio Nacional Lawrence Livermore,
+su sistema, de momento, es difícilmente escalable a un reactor de
+fusión comercial. En este aspecto, el proyecto más adelantado es el
+ITER (siglas de Reactor Experimental Termonuclear
+Internacional). Este reactor, que se está construyendo en
+Cadarache (Francia), planea llevar a cabo sus primeros
+experimentos con una ganancia diez veces más potente que la del
+NIF en 2028 -si bien, en este momento se encuentran revisando de
+nuevo los plazos-. ITER será el primer dispositivo de fusión que
+mantendrá la fusión durante periodos largos de tiempo y el primer
+en poner a prueba las tecnologías integradas, materiales y física
+necesarios para la producción comercial de la electricidad de
+fusión.
+
+6
+
+¿Cuántos países hay investigando este
+campo?
+
+Muchos países están detrás de conseguir la energía de fusión. El
+proyecto ITER es una colaboración mundial de 35 países: los 27 de
+la Unión Europea, Suiza, Reino Unido, China, India, Japón, Corea
+del Sur, Rusia y Estados Unidos. Pero cada país también tiene sus
+propios experimentos: aparte del estadounidense del laboratorio
+Lawrence Livermore en EE.UU., en Europa está el JET (siglas de
+Joint European Torus); China tiene varios 'soles artificiales"
+bastante exitosos y Corea del Sur también ha comenzado sus
+propios experimentos.
+Aunque está más cerca de ser un sistema escalable que el del
+laboratorio estadounidense, uno de los principales escollos para
+su implementación ha sido que el campo magnético se genera a
+través de enormes imanes que confinan y dan forma al plasma,
+manteniéndolo alejado de las paredes metálicas. Es el llamado
+confinamiento magnético General Atomics ha sido el encargado
+de crear el imán más poderoso del mundo y que servirá de 'muro
+de contención' al plasma ardiente del ITER, el reactor de
+participación internacional que se está construyendo en
+Cadarache (Francia) y con el que los científicos intentarán
+demostrar que la energía de fusión es una realidad fuera de la
+teoría.
+La fusión es la fuente de energía más prometedora hasta la fecha:
+limpia, sostenible, infinita. No en vano, alimenta a las estrellas,
+que brillan durante miles de millones de años gracias a millones
+de toneladas de núcleos de hidrógeno que chocan entre sí a
+tremendas temperaturas y presiones en su interior. Este proceso
+les obliga a vencer la repulsión electrostática, creando un
+elemento más pesado, el helio.
+
+Es así como todas ellas, incluido nuestro Sol, generan de forma
+natural ingentes cantidades de luz y calor. Cuando la humanidad
+comprendió este mecanismo, la pregunta se volvió terrenal:
+¿podríamos emular algo parecido aquí y usar todo ese enorme
+potencial sin apenas residuos en nuestro beneficio? Eso es lo que
+buscan los experimentos como el del Laboratorio Nacional
+Lawrence Livermore, en California, y que promete hacer un
+«anuncio histórico« este martes.
+Todo lo que necesitas saber
+sobre la fusión, la energía
+inagotable de las estrellas
+que aspira a encender tu
+nevera
+
+¿Qué diferencia hay entre fusión y fisión? ¿Cuándo
+este fuente tan prometedora encenderá nuestros
+electrodomésticos? ¿Es peligrosa? Estas son solo
+algunas de las preguntas acerca de esta nueva
+energía
+
+José Manuel Perlado, físico: «Es un hito, algo que
+los científicos que trabajamos en fusión
+esperábamos desde los años 60»
+
+EE.UU. anunciará el martes «un importante
+avance científico» sobre fusión nuclear
+
+Qué es la fusión nuclear, por qué se busca y por
+qué es tan difícil conseguirla
+
+Cómo funciona el 'Sol europeo' que ha batido el
+récord de energía de fusión
+Pero, ¿qué diferencia hay entre fusión y fisión? ¿cuándo este
+fuente tan prometedora encenderá nuestros electrodomésticos?
+¿es peligrosa? Estas son solo algunas de las preguntas más
+recurrentes acerca de esta nueva energía.
+
+1
+
+¿Qué diferencia hay entre fusión y
+fisión?
+
+Aunque tanto la fisión como la fusión son reacciones nucleares
+que liberan la energía almacenada en el núcleo del átomo, en la
+primera se produce una separación de un núcleo pesado en
+
+núcleos más pequeños; sin embargo, en la fusión nuclear se
+combinan núcleos ligeros para crear uno más grande y pesado.
+
+2
+
+¿La fusión crea residuos?
+
+El principal producto de las reacciones de fusión es el helio, que es
+inocuo y no causa efecto invernadero. Además, aunque las paredes
+del reactor sí que se convierten en material radiactivo, son
+considerados residuos de 'baja activación, con poco poder
+contaminante.
+
+3
+
+¿Por qué se dice que es una fuente casi
+inagotable?
+
+Para muestra, un ejemplo: con un gramo de hidrógeno y los
+sistemas actuales se puede obtener mediante la combustión la
+energía para mover un coche 100 metros; gracias a la fusión,
+podría recorrer 200.000 kilómetros. O algo más gráfico: con la
+batería de litio de un teléfono móvil y medio litro de agua se podría
+generar toda la energía que consume un europeo medio en 30
+años.

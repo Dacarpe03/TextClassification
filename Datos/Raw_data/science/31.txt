@@ -1,0 +1,125 @@
+Estos relojes atómicos son increíblemente más minuciosos. En una
+explicación muy sencilla, dentro llevan un péndulo molecular en el que
+átomos de un elemento químico (cesio, iterbio, estroncio...) oscilan de un
+lado a otro 9.000 millones de veces por segundo. Tal precisión hizo que se
+impusieran como los gobernadores del tiempo a mediados del siglo
+pasado. En la actualidad, una red de 450 relojes atómicos (cinco de ellos
+en España) marcan el Tiempo Universal Coordinado (UTC). Como el
+tiempo astronómico (Tiempo Universal o UTI) aumenta su
+descoordinación con el UTC por la rotación inexacta de la Tierra, cada
+cierto tiempo se añadía un segundo intercalar a los registros de los
+relojes atómicos. De no añadir un segundo bisiesto, la distancia entre las
+dos formas de contar el tiempo iría en aumento, afectando a multitud de
+sistemas. Desde que se empezaron a añadir, en 1972, el tiempo UTC y el
+tiempo UTI ha sido sincronizado 27 veces. Aún hay otros 37 segundos de
+retraso acumulados en este medio siglo. Esta Nochevieja se podría haber
+reducido tal retraso si tras las 23:59:59 llegaran las 23:59:60. Pero no va a
+ser así. Los responsables de organizar y medir el tiempo parecen
+decididos a jubilar el segundo bisiesto.
+
+La Oficina Internacional de Pesas y Medidas (BIPM, por sus siglas en
+francés) es el coordinador mundial de la metrología. En su última
+reunión, celebrada el mes pasado, decidieron proponer eliminar el ajuste
+ofrecido por los segundos intercalares. La decisión se planteó en 2012 y
+de nuevo en 2015. Pero esta vez parece que van en serio.
+
+“Las empresas privadas estaban empezando a crear sus
+propios patrones o escalas de tiempo”
+
+María Dolores del Campo, directora de la división de magnitudes mecánicas e ingeniería
+del Centro Español de Metrología
+María Dolores del Campo, directora de la división de magnitudes
+mecánicas e ingeniería del Centro Español de Metrología (CEM),
+participó en la reunión de la BIPM sobre el futuro del segundo bisiesto.
+“Hasta ahora, el tiempo universal coordinado, que es, digamos, el patrón
+de tiempo internacional usado por la mayoría de los países para
+establecer su hora legal, siempre se ha venido adaptando al tiempo
+astronómico”, dice. Cuando la rotación de la Tierra llegaba a los 0,9
+segundos de retraso, lo solucionaban añadiendo un segundo intercalar.
+“Pero los sistemas de navegación global por satélite o todos los sistemas
+digitales que tenemos no están preparados para hacer saltos de un
+segundo de vez en cuando”, añade del Campo. El mayor riesgo era el fin
+de la universalidad del tiempo. “Las empresas privadas estaban
+empezando a crear sus propios patrones o escalas de tiempo”, explica.
+Unas añadían el segundo extra en el último instante del día 31 de
+diciembre. Otras lo sumaban al primer segundo del Año Nuevo. Otras, lo
+que hacen es añadir el segundo intercalar repartido entre los 86.400
+segundos de todo el día 31.
+
+“Existía el peligro de que si tú no sabes qué escala está utilizando el otro,
+pues haya una incoherencia en las medidas de tiempo”, advierte del
+Campo. Por ejemplo, las transacciones financieras o las operaciones de
+bolsa llevan su marca de tiempo, una marca que puede medirse en
+nanosegundos y que, en el caso de las cotizaciones, es esencial para
+
+establecer el valor de esa transacción. “Si todas esas transacciones no
+están hechas con una escala de tiempo que sea coherente y única, se
+formaría el caos”, añade. Así que han aprobado que deje de introducirse
+el segundo de aquí al año 2035: “Hasta entonces estudiaremos y
+consultaremos qué hacer en el futuro, si vamos a esperar hasta tener una
+diferencia a lo mejor de un minuto o de una semana o no volver a hacer
+
+una corrección hasta dentro de 100 año:
+El capitán de fragata Héctor Esteban Pinillos es el jefe de la Sección de
+Hora del Real Instituto y Observatorio de la Armada (ROA), el organismo
+encargado de fijar la hora oficial en España. Para él, añadir un segundo
+negativo tendría “consecuencias imprevisibles”. Hasta ahora la
+introducción del segundo intercalar (el último añadido fue el 31 de
+diciembre de 2016) se hacía vía software, añadiéndolo a cuatro de los
+relojes de cesio que tiene el ROA y dejando un quinto reloj sin modificar
+como mecanismo de control. Pinillo coincide con del Campo que existía
+el riesgo de que se quebrara la unidad del tiempo. “Los sistemas de
+satélites GPS y Galileo ignoraban el segundo intercalar, querían un
+tiempo de continuo. Solo GLONASS [la red satelital operada por Rusia] lo
+había implantado”, recuerda el capitán. “Cada vez más empresas usaban
+su propia escala de tiempo. Se estaba perdiendo la unidad del Tiempo
+Universal Coordinado”, concluye.
+
+La decisión final se tomará la próxima primavera, en una sesión especial
+de la Conferencia General de Pesas y Medidas, a celebrar en París. El
+adiós del segundo bisiesto hará que el UTC vaya distanciándose del
+tiempo astronómico hasta en un minuto en el próximo siglo.
+La incertidumbre era aún mayor. La tendencia general es que la Tierra
+gire cada vez más despacio sobre sí misma. Pero hay momentos en el que
+su rotación no se frena, sino que se acelera. “Eso significa que en vez de
+introducir un segundo positivo, ¡habría que introducir un segundo
+negativo! Nunca ha pasado. ¿Cómo podría afectar algo así a todos los
+sistemas digitales, al control de los satélites, a las transacciones...? El
+problema es que no se puede predecir cómo va a girar la Tierra ahora o
+dentro de 100 años”, concluye la experta del CEM.
+Durante siglos, si un reloj adelantaba o atrasaba unos minutos, no pasaba
+nada. Hace algo más de una década, una descoordinación de apenas un
+nanosegundo (la milmillonésima parte de un segundo) hizo creer a los
+científicos que habían descubierto unas partículas que viajaban por
+
+encima de la velocidad de la luz. Hoy, la vida depende de la exactitud al
+
+medir el breve lapso de un segundo. El problema es que el segundo en la
+Tierra no es igual que el segundo en los cielos. Y por eso, los que
+gobiernan el paso del tiempo han propuesto ahora jubilar el segundo
+bisiesto que cada cierto tiempo se añadía para conciliar el tiempo
+humano con el astronómico, como ocurrió en 2015 y en 2016.
+
+Los científicos sabían que pasaría. Sabían que el día no dura exactamente
+86.400 segundos y sabían que más tarde o más temprano el tiempo
+marcado por el movimiento del planeta sería diferente del tiempo
+marcado por los relojes. El día no dura exactamente un día porque la
+rotación de la Tierra no es exacta. René Duffard, astrónomo del Instituto
+de Astrofísica de Andalucía (IAA/CSIC) lo resume así: “Históricamente, se
+tomaba la rotación de la Tierra como la referencia, el patrón para definir
+un día. Se medía el paso de la estrella por un meridiano, por ejemplo. Ese
+meridiano de referencia era el de Greenwich”. El problema es que el
+tiempo que tarda la Tierra en girar sobre sí misma no es constante. “Y no
+lo es por las fuerzas de las mareas de la Luna, las del Sol y, sobre todo,
+porque el planeta no es un objeto sólido, su corteza se mueve, tiene un
+
+núcleo líquido... y todos estos factores acaban haciendo que el día, el
+tiempo que tarda en dar una vuelta, no sea constante. Y eso lo podemos
+medir gracias a que tenemos un instrumento superpreciso, los relojes
+atómicos”, añade Duffard.
+Los responsables de medir el tiempo quieren
+jubilar el segundo “bisiesto”
+En 2016 se tuvo que añadir un segundo al final del año para compensar la
+
+irregularidad en la rotación de la Tierra, algo que se tenía que hacer regularmente.
+Ahora se busca una solución alternativa
