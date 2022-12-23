@@ -1,17 +1,17 @@
 Accuracy,Precision,Recall,F1 Score,modelo
 0.633,0.633,0.633,0.63,Logistic Regression BoW
 0.683,0.723,0.683,0.678,Naive Bayes BoW
-0.683,0.691,0.683,0.682,Linear SVM BoW
+0.658,0.671,0.658,0.658,Linear SVM BoW
 0.442,0.55,0.442,0.409,Gauss kernel SVM BoW
 0.608,0.626,0.608,0.614,Logistic Regression tfidf
 0.675,0.677,0.675,0.67,Naive Bayes tfidf
-0.675,0.695,0.675,0.678,Linear SVM tfidf
+0.667,0.68,0.667,0.668,Linear SVM tfidf
 0.65,0.656,0.65,0.652,Gauss kernel SVM tfidf
 0.875,0.882,0.875,0.877,Logistic Regression averaged
 0.85,0.865,0.85,0.854,Naive Bayes averaged
-0.825,0.854,0.825,0.831,Linear SVM averaged
+0.892,0.896,0.892,0.891,Linear SVM averaged
 0.842,0.851,0.842,0.845,Gauss kernel SVM averaged
 0.567,0.576,0.567,0.569,Logistic Regression tfidf wv
 0.467,0.472,0.467,0.45,Naive Bayes tfidf wv
-0.483,0.527,0.483,0.485,Linear SVM tfidf wv
+0.583,0.591,0.583,0.585,Linear SVM tfidf wv
 0.625,0.64,0.625,0.626,Gauss kernel SVM tfidf wv
